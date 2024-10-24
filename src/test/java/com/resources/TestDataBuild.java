@@ -26,6 +26,7 @@ public class TestDataBuild {
 		    l.setLat(-38.383494);
 		    l.setLng(33.427362);
 		    ap.setLocation(l);
+		    System.out.println("Test data is updated");
 		    return ap;
 	}
 	
